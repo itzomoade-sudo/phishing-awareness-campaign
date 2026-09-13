@@ -64,6 +64,8 @@ Email Template
 Sending Profile
      │
      ▼
+Landing page
+     |
 Test Campaign
      │
      ▼
